@@ -12,6 +12,7 @@ url: "wanghao.github.io"
 comment:
     # disqus: leopard
     duoshuo: leopard 
+    provider: uyan
 
 # Social
 social:
